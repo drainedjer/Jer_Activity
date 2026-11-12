@@ -1,0 +1,8 @@
+{
+  "name": "Remix Metro Corner Store – Inventory \u0026 Sales",
+  "description": "Modern inventory management and Point of Sale (POS) system for Metro Corner Store with barcode scanning, sales analytics, and stock tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
